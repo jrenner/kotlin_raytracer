@@ -6,6 +6,10 @@ It renders in parallel taking advantage of multiple CPUs, dividing up the work i
 
 The renders from the ray tracer are written to a texture which is then displayed as a Sprite in an OpenGL window using libGDX
 
+# Youtube video
+You can see a youtube video of the raytracer in action here:
+[Video link](https://www.youtube.com/watch?v=j2QW-z3Ahbw)
+
 # How to run
 ```
 ./gradlew desktop:run
